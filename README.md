@@ -1,4 +1,4 @@
-# 3DSLiM SDK User Manual
+# 3DSLiM Viewer User Manual
 
 ## Introduction
 
