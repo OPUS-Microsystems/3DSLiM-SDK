@@ -24,7 +24,7 @@ TBD
 
 ## Update History
 
-### 0.0.5.3: @20200526, SDK: V00.905.03
+### V 0.0.5.3: @20200526, SDK: V00.905.03
 
 1. Update SDK to be compatible with both Windows 10 x64 and Ubuntu 18.04 LTS
 
