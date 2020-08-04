@@ -1,4 +1,4 @@
-# 3DSLiM Viewer User Manual
+# 3DSLiM SDK User Manual
 
 [![GitHub issues][issues-image]][issues-url]
 
@@ -66,4 +66,4 @@ TBD
 <!-- Badges Link -->
 
 [issues-url]: https://github.com/OPUS-Microsystems/3DSLiM-SDK/issues
-[issues-image]: https://img.shields.io/bitbucket/issues-raw/OPUS-Microsystems/3DSLiM-Viewer
+[issues-image]: https://img.shields.io/bitbucket/issues-raw/OPUS-Microsystems/3DSLiM-SDK
