@@ -62,3 +62,8 @@ TBD
 1. Add depth map data pointer ”p_depth” to output api.
 2. Add relative sample code to explain how to use p_depth.
 3. Change default value of resampling_factor.
+
+<!-- Badges Link -->
+
+[issues-url]: https://github.com/OPUS-Microsystems/3DSLiM-SDK/issues
+[issues-image]: https://img.shields.io/bitbucket/issues-raw/OPUS-Microsystems/3DSLiM-Viewer
