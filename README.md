@@ -1,5 +1,7 @@
 # 3DSLiM Viewer User Manual
 
+[![GitHub issues][issues-image]][issues-url]
+
 ## Introduction
 
 This user manual is intended for users who want to quickly familiarize themselves with 3DSLiM SDK. OPUS provides both a set of API functions (3DSLiM API) and a graphical user interface (Apollo Visualizer) . 3DSLiM SDK supports two ways of outputting point cloud data. One way is to capture a point cloud, it’s slow but guarantee the point cloud is generated in the moment you call the function. The other way is to stream point clouds, it’s fast but you might get the previous data in the buffer. Please refer to the sample code for more detail.
